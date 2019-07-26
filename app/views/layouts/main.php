@@ -30,6 +30,8 @@ AssetBundle::register($this);
 
 	<?= $this->render('//partials/header'); ?>
 
+	<h3>Hotfix 1</h3>
+
 	<div class="container">
 		<?= Breadcrumbs::widget([
 			'links' => isset($this->params['breadcrumbs']) ? $this->params['breadcrumbs'] : [],
