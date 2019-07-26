@@ -34,7 +34,9 @@ AssetBundle::register($this);
 
 	<h3>Feature 1</h3>
 	
-	<h3>Feature 2</h3>
+	<h3>Feature 2
+
+    <h3>Feature 4</h3>
 
 	<div class="container">
 		<?= Breadcrumbs::widget([
