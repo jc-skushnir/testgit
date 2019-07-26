@@ -31,6 +31,8 @@ AssetBundle::register($this);
 	<?= $this->render('//partials/header'); ?>
 
 	<h3>Feature 1</h3>
+	
+	<h3>Feature 2</h3>
 
 	<div class="container">
 		<?= Breadcrumbs::widget([
