@@ -32,6 +32,8 @@ AssetBundle::register($this);
 
 	<h3>Hotfix 1</h3>
 
+	<h3>Feature 1</h3>
+
 	<div class="container">
 		<?= Breadcrumbs::widget([
 			'links' => isset($this->params['breadcrumbs']) ? $this->params['breadcrumbs'] : [],
